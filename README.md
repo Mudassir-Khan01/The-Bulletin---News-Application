@@ -28,9 +28,6 @@ Getting Started
 
 Prerequisites
 NewsAPI.org Key: To run the app, you need to obtain an API key from NewsAPI.org. This API provides access to the news data, but please note that it has a limited number of daily requests.
-Installation
-Clone the Repository:
-git clone https://github.com/yourusername/the-bulletin.git
 
 Open in Android Studio: Navigate to the project folder and open it in Android Studio.
 Add API Key:
