@@ -40,10 +40,11 @@ Add your NewsAPI.org key as follows:
 Build and Run the App: Connect your Android device or start an emulator, then build and run the app from Android Studio.
 Screenshots
 
+
 ![Screenshot 2024-08-29 232732](https://github.com/user-attachments/assets/953cf540-cd2a-4bb0-a69f-d8f0ae94141e)![Screenshot 2024-08-29 232749](https://github.com/user-attachments/assets/059a9fb5-156b-4ab0-b5d5-76fae7091717)
 
 
-Contributing
+
 Contributions are welcome! If you have any ideas, suggestions, or find any bugs, please open an issue or submit a pull request.
 </body>
 </html>
