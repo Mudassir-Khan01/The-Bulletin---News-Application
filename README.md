@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Bulletin 📰 - README</title>
 </head>
 <body>
     <h1>The Bulletin 📰</h1>
